@@ -1,0 +1,5 @@
+employee_id,name,skill,availability_hours
+E01,Alice,Python,8
+E02,Bob,Data Analysis,6
+E03,Charlie,Python,4
+E04,Diana,Machine Learning,6

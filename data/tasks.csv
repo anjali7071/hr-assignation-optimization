@@ -1,0 +1,4 @@
+task_id,task_name,required_skill,required_hours
+T01,Sales Forecasting,Python,4
+T02,Log Analysis,Data Analysis,3
+T03,Model Training,Machine Learning,5
